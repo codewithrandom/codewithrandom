@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewithrandom
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning IOT and Cyber Security
+- 🌱 I’m currently learning Data Science, Machine Learning, Artificial Intelligence
 - 📫 How to reach me ...@code_with_random -> Instagram ID
 
 <!---
